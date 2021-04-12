@@ -13,8 +13,6 @@ public class Main {
         int decrementedNumber = decrement(incrementedNumber); // call the "decrement" method and send in the incremented number (5). then assign the result to the "decrementedNumber" integer.
         System.out.println("after decrement: " +decrementedNumber); // print the decremented number.
 
-        // Exercise 5
-
         int num1 = 10; // set the integer "num1" to 10.
         int num2 = 50; // set the integer "num2" to 50.
 
