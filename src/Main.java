@@ -1,6 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("GIT Exercise solutions");
+        System.out.println("----------------------");
         int num = 5; // set the integer "num" to 5.
         System.out.println("before increment: " +num); // print the number.
 
