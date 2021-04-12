@@ -4,7 +4,7 @@ public class Main {
         int num = 5; // set the integer "num" to 5.
         System.out.println("before increment: " +num); // print the number.
 
-        int incrementedNumber = increment(num); // call the "increment" method and send in the number (5). then assign the result to the "incrementedNumber" integer
+        int incrementedNumber = increment(num); // call the "increment" method and send in the number (5). then assign the result to the "incrementedNumber" integer.
         System.out.println("after increment: " +incrementedNumber); // print the incremented number.
     }
 
