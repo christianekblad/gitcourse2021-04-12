@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("GIT Exercise solutions");
         System.out.println("----------------------");
+
         int num = 5; // set the integer "num" to 5.
         System.out.println("before increment: " +num); // print the number.
 
@@ -17,10 +18,8 @@ public class Main {
         int num1 = 10; // set the integer "num1" to 10.
         int num2 = 50; // set the integer "num2" to 50.
 
-        int multipliedNumber = multiply(num1, num2); // call the "multiply" method and send in the two numbers (10 and 50). then assign the result to the "multipliedNumber" integer.
-        System.out.println("\n" +num1 +" multiplied with " +num2 +" = " +multipliedNumber); // print the multiplied number.
-
-        System.out.println("\n/ CE 2021-04-12");
+        int multipliedNumber = multiply(num1, num2);
+        System.out.println("\n" +num1 +" multiplied with " +num2 +" = " +multipliedNumber);
     }
 
     // method to increment the number that's sent in.
